@@ -1,0 +1,11 @@
+{
+    "geode": "5.9.0",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "local.frame-window-analyzer",
+    "name": "Frame Window Analyzer",
+    "version": "0.1.12",
+    "developer": "local",
+    "description": "Measure local 240 TPS input frame windows with deterministic macro replay."
+}
